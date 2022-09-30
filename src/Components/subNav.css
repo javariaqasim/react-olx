@@ -1,0 +1,42 @@
+
+.sub_header{
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.sub_cat{
+    color: black !important;
+    align-items: center;
+    padding: 3px 10px;
+    margin-left: 10px;
+}
+
+
+
+li{
+    list-style: none;
+    font-size: 17px;
+    display: inline; 
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+
+}
+
+
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+    display: inline; 
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+
+}
+
+a:hover{
+    color: rgb(16, 146, 146);
+}
